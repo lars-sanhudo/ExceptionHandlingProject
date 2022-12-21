@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CustomExceptDemo",
+            "request": "launch",
+            "mainClass": "CustomExceptDemo",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiCatch",
+            "request": "launch",
+            "mainClass": "MultiCatch",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThrowsDemo",
+            "request": "launch",
+            "mainClass": "ThrowsDemo",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch FinalltDemo",
+            "request": "launch",
+            "mainClass": "FinalltDemo",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch UseThrowableMethods",
+            "request": "launch",
+            "mainClass": "UseThrowableMethods",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo1",
+            "request": "launch",
+            "mainClass": "Demo1",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExcDemo2",
+            "request": "launch",
+            "mainClass": "ExcDemo2",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExcDemo3",
+            "request": "launch",
+            "mainClass": "ExcDemo3",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExcDemo4",
+            "request": "launch",
+            "mainClass": "ExcDemo4",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExcDemo5",
+            "request": "launch",
+            "mainClass": "ExcDemo5",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch NestTrys",
+            "request": "launch",
+            "mainClass": "NestTrys",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch RethowDemo",
+            "request": "launch",
+            "mainClass": "RethowDemo",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThrowDemo",
+            "request": "launch",
+            "mainClass": "ThrowDemo",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoCatchStatement",
+            "request": "launch",
+            "mainClass": "twoCatchStatement",
+            "projectName": "ExceptionHandlingProject_a23689a9"
+        }
+    ]
+}
